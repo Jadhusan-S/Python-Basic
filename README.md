@@ -1,4 +1,4 @@
-# Python-Basic1
+# Python-Basic
 A Basic Scripts Of Python
 
 
