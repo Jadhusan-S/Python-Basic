@@ -1,16 +1,17 @@
 # Python-Basic1
-A Basic Tut(Scripts) For Python Beginners Part-1
+A Basic Scripts Of Python
 
-**PART 2**  <br/>
 
-A Basic Tut(**Scripts**) For Python Beginners.<br/>
-
-In this tut i have explained how: <br/>
+## In this scripts i have explained how: <br/>
 *List<br/>
 *Modules<br/>
 *Strings<br/>
 *Tuples<br/>
 *Validators<br/>
 *Variables <br/>
+*Classes<br/>
+*Conditionals<br/>
+*Files<br/>
+*Modules<br/>
+*Py_json<br/>
 
-This is a full basic starter and i have explained it in files.<br/>
