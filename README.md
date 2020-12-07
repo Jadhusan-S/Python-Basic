@@ -1,8 +1,8 @@
 # Python-Basic
-A Basic Scripts Of Python
+A Basic Scripts of Python
 
 
-## In this scripts i have explained how: <br/>
+## This scripts include: <br/>
 *List<br/>
 *Modules<br/>
 *Strings<br/>
